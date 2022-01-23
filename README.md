@@ -1,9 +1,18 @@
-# Fabric Example Mod
+# Beholder's Quartz Additions
 
-## Setup
+## Includes
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+ - Block (Slab, Stairs)
+ - Bricks
+ - Smooth (Slab, Stairs)
+ - Chiseled (Button)
+ - Pillar
 
-## License
+## Additions in 0.1.0: The Basics
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+ - Chiseled Quartz Button
+ - Vitric Redstone
+ - Vitric Amethyst
+
+## Additions in 0.2.0: Crystals and Geodes
+## Additions in 0.3.0: Aquatic Additions
